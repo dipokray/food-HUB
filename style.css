@@ -63,6 +63,7 @@ body{
 }
 .recipie-header{
   text-align: center;
+  color:rgb(131, 127, 120);
 }
 .recipie-item{
   box-shadow: 20px 10px 40px gray ;
@@ -96,7 +97,8 @@ border-radius: 5%;
 footer{
   background-color:black;
   width: 100%;
-  height: 250px;
+  height: 215px;
+  margin-bottom: 5px;
 }
 .footer-head-span-1{
   color: chocolate;
