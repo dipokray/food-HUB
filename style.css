@@ -60,6 +60,7 @@ body{
   background-image: url(images/7.png);
   background-repeat: no-repeat;
   background-position: right;
+  
 }
 .recipie-header{
   text-align: center;
@@ -82,7 +83,7 @@ border-radius: 5%;
 }
 .social-media{
   box-shadow: 20px 10px 40px gray ;
-  border-radius: 15px;
+  border-radius: 20px;
   padding: 10px;
   margin-left: 5%;
   margin-right: 10%;
