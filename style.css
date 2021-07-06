@@ -10,20 +10,20 @@ body{
     
   }
   
-  .nav a {
+.nav a {
     float: right;
     color: #dfcfcf;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-  }
+}
   
-  .nav a:hover {
+.nav a:hover {
     background-color: #ddd;
     color: black;
   }
-  h1{
+h1{
       font-size:40px;
   }
   p{
@@ -57,9 +57,10 @@ body{
     border-radius: 20px;
 }
 .about-section{
-  background-image: url(images/7.png);
+  background-image: url(images/Frame\ 58.jpg);
   background-repeat: no-repeat;
   background-position: right;
+  width: 100%;
   
 }
 .recipie-header{
